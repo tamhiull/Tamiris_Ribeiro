@@ -1,4 +1,3 @@
-# 👋 Olá! Eu sou a Tamiris Ribeiro
 
 🎓 Engenheira da Computação apaixonada por resolver problemas com tecnologia.  
 💻 Especializada em:
