@@ -1,6 +1,3 @@
-# Tamiris Ribeiro
-> `Engenheira de Computação | Analista de Dados | Soluções Tecnológicas`
-
 ## 🛠️ Habilidades Técnicas
 ```python
 # Linguagens & Ferramentas
