@@ -1,51 +1,35 @@
 
-## 📊 Projeto: Dashboard de People Analytics  
-
-<div align="center">
-  <a href="https://github.com/tamhiull/rh-analytics-dashboard">
-    <img src="https://github.com/tamhiull/IndicadoresRH/blob/main/Dash.PNG" alt="Dashboard RH" width="100">
-  </a>
-  <p><strong>🔗 <a href="https://github.com/tamhiull/rh-analytics-dashboard">Repositório Completo</a></strong></p>
-</div>
+Sou formada em Engenharia da Computação e tenho experiência com projetos que envolvem análise de dados, automação de planilhas, criação de dashboards e bots simples.  
+Meu objetivo é construir soluções que facilitam a rotina das pessoas e das empresas — de forma funcional e com impacto real.
 
 ---
 
-## 🛠️ Habilidades Técnicas  
+## 💼 Projetos em destaque
 
-### Linguagens & Ferramentas  
-```python
-# Análise de Dados
-- Python (Pandas, NumPy, Scikit-learn)
-- Power BI (DAX, Power Query)
-- SQL | Excel Avançado
+### 📊 [Dashboard de Indicadores de RH- Power BI](https://github.com/tamhiull/IndicadoresRh)
+Dashboard interativo com filtros, KPIs e análises de rotatividade, desligamentos e colaboradores ativos.
 
-# Engenharia
-- VHDL/FPGA
-- Redes Neurais (TensorFlow)
-- Algoritmos Genéticos
+### 🤖 [Bot WhatsApp com Gemini](https://github.com/tamhiull/whatsapp-gemini-bot)
+Bot feito com JavaScript que responde comandos, registra interações e automatiza tarefas básicas.
+Feito para solucionar problemas de conectividade com eSim 
 
-## 📊 Experiência Profissional
-```bash
-# AmBev (2024-2025)
-$ Analista de Dados
-  - Automação de relatórios
-  - Análise de dados de vendas
+---
 
-# UFMT (2023)
-$ Técnica em Redes
-  - Configuração de switches/roteadores
-```
+## 🛠️ Tecnologias que uso
 
-## 📞 Contato
-```bash
-email: tamirisiribeiro955@gmail.com
-LinkedIn: /in/tamicomp
-GitHub: @tamhiull
-Telefone: (69) 99363-5803
-```
+- **Linguagens:** Python, HTML, JavaScript básico  
+- **Dados:** Power BI, Pandas, Excel e DAX
+- **Automação:** Python, bots, APIs
+- **Ferramentas:** Git, GitHub, VS Code
 
-## 🎓 Educação
-```text
-UFMT - Engenharia de Computação (2020-2025)
-IFRO - Técnico Agrícola (2015-2018)
-```
+---
+
+## 🌐 Contato
+
+📬 tamirisribeiro955@gmail.com  
+📍 Cuiabá - MT  
+🔗 [LinkedIn](https://linkedin.com/in/tamicomp) | [GitHub](https://github.com/tamhiull)
+
+---
+
+> “Transformar conhecimento em solução prática é o que me move.”
