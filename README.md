@@ -18,8 +18,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Dashboard de Vendas](https://github.com/tamirisdev/dashboard-vendas) | Dashboard interativo em Power BI com dados simulados de vendas mensais. | Power BI, Excel |
-| [Bot Telegram - Mensagens automáticas](https://github.com/tamirisdev/bot-telegram-auto) | Bot que responde mensagens pré-programadas. | Python, Telegram API |
-| [Automação de planilha](https://github.com/tamirisdev/automacao-planilha) | Script que lê e organiza dados de uma planilha Excel. | Python, Pandas |
+| [Dashboard de Indicadores de RH](https://github.com/tamhiull/IndicadoresRh) | Dashboard interativo em Power BI com dados simulados dOs Colaboradores. | Power BI, Excel e DAX|
+| [Bot Telegram - Mensagens automáticas](https://github.com/tamhiull/whatsapp-gemini-bot) | Bot que responde mensagens pré-programadas. | JavaScript, Node.js e WppConect |
+
 
 💌 Me chama se quiser conversar sobre projetos: **tamirisribeiro955@gmail.com**
