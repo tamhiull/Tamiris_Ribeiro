@@ -1,14 +1,28 @@
-## 🛠️ Habilidades Técnicas
+
+## 📊 Projeto: Dashboard de People Analytics  
+
+<div align="center">
+  <a href="https://github.com/tamhiull/rh-analytics-dashboard">
+    <img src="https://github.com/tamhiull/IndicadoresRH/blob/main/Dash.PNG" alt="Dashboard RH" width="100">
+  </a>
+  <p><strong>🔗 <a href="https://github.com/tamhiull/rh-analytics-dashboard">Repositório Completo</a></strong></p>
+</div>
+
+---
+
+## 🛠️ Habilidades Técnicas  
+
+### Linguagens & Ferramentas  
 ```python
-# Linguagens & Ferramentas
-- Python (Pandas, Scikit-learn)
-- Power BI | Excel Avançado
+# Análise de Dados
+- Python (Pandas, NumPy, Scikit-learn)
+- Power BI (DAX, Power Query)
+- SQL | Excel Avançado
+
+# Engenharia
 - VHDL/FPGA
-- Redes Neurais
+- Redes Neurais (TensorFlow)
 - Algoritmos Genéticos
-```
-
-
 
 ## 📊 Experiência Profissional
 ```bash
