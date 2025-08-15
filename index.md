@@ -13,7 +13,7 @@ Dashboard interativo com filtros, KPIs e análises de rotatividade, desligamento
 Bot feito com JavaScript que responde comandos, registra interações e automatiza tarefas básicas.
 Feito para solucionar problemas de conectividade com eSim 
 
-### 🤖 [Programa de um estacionamento com C#]((https://github.com/tamhiull/ProjetoEstacionamento).
+### 🤖 [Programa de um estacionamento com C#](https://github.com/tamhiull/ProjetoEstacionamento).
 Aplicação console para gestão de veículos estacionados, com cálculo automático de tarifas baseado em tempo. 
 
 
