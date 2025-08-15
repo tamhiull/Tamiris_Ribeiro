@@ -6,6 +6,7 @@
 - Integrações via API
 - Criação e suporte para sites
 - Bots e ferramentas inteligentes
+- Aplicações desktop com .NET
 
 ## 🔧 Tecnologias & Ferramentas
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
