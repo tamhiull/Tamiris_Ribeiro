@@ -13,13 +13,19 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)
+
 
 ## 📂 Meus Projetos
 
+
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Dashboard de Indicadores de RH](https://github.com/tamhiull/IndicadoresRh) | Dashboard interativo em Power BI com dados simulados dOs Colaboradores. | Power BI, Excel e DAX|
-| [Bot Telegram - Mensagens automáticas](https://github.com/tamhiull/whatsapp-gemini-bot) | Bot que responde mensagens pré-programadas. | JavaScript, Node.js e WppConect |
+| [Sistema de Estacionamento Básico](https://github.com/tamhiull/ProjetoEstacionamento) | Aplicação console para gestão de veículos com cálculo automático de tarifas | C#, .NET 6, POO |
+| [Dashboard de Indicadores de RH](https://github.com/tamhiull/IndicadoresRh) | Dashboard interativo em Power BI com dados simulados | Power BI, DAX |
+| [Bot Whats- Mensagens automáticas](https://github.com/tamhiull/whatsapp-gemini-bot) | Bot que responde mensagens com o GEMINI | JavaScript, Node.js, GEMINI|
+
 
 
 💌 Me chama se quiser conversar sobre projetos: **tamirisribeiro955@gmail.com**
