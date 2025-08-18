@@ -16,6 +16,13 @@ Feito para solucionar problemas de conectividade com eSim
 ### 🤖 [Programa de um estacionamento com C#](https://github.com/tamhiull/ProjetoEstacionamento).
 Aplicação console para gestão de veículos estacionados, com cálculo automático de tarifas baseado em tempo. 
 
+---
+
+## 💼 Estudos e Programas recentes: 
+###Fui selecionada para par do **Industry 4Her**, o qual é um Programa idealizado para empresas engajadas na transformação digital desenvolverem suas atuais e futuras líderes. No final dele em Novembro vamos apresentar um projeto que ajuda uma empresa em um problema real. 
+
+###Me inscrevi no **Bootcamp da DIO -Akad - Fullstack Developer**, nele eu relembro desde os fundamentos de programação até a construção de aplicações completas com React, para front-end .NET para back-end e IA com o GitHub Copilot, passando por estruturas de dados, programação orientada a objetos, APIs, Docker, engenharia de prompts e muito mais. Gosto de entrar em Bootcamps pois se dormimos 6 meses na área tech e acordarmos, parece que não sabemos mais onde paramos.
+
 
 ---
 
