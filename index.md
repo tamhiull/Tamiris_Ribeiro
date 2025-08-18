@@ -33,7 +33,7 @@ Também, estou aproveitando que a [**Oracle**](https://mylearn.oracle.com/ou/hom
 - **Linguagens:** Python, HTML, JavaScript básico e C# (.NET)
 - **Dados:** Power BI, Pandas, Excel e DAX
 - **Automação:** Python, bots, APIs
-- **Ferramentas:** Git, GitHub, VS Code
+- **Ferramentas:** Git, GitHub, VS Code, n8n e APP atalhos.
 
 ---
 
