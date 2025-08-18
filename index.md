@@ -19,11 +19,11 @@ Aplicação console para gestão de veículos estacionados, com cálculo automá
 ---
 
 ## 💼 Estudos e Programas recentes: 
-Fui selecionada para par do **Industry 4Her**, o qual é um Programa idealizado para empresas engajadas na transformação digital desenvolverem suas atuais e futuras líderes. No final dele em Novembro vamos apresentar um projeto que ajuda uma empresa em um problema real. 
+Fui selecionada para par do [**Industry 4Her**](https://www.linkedin.com/company/industry4her1/), o qual é um Programa idealizado para empresas engajadas na transformação digital desenvolverem suas atuais e futuras líderes. No final, em Novembro vamos apresentar um projeto que ajuda uma empresa em um problema real. 
 
-Me inscrevi no **Bootcamp da DIO -Akad - Fullstack Developer**, nele eu relembro desde os fundamentos de programação até a construção de aplicações completas com React, para front-end .NET para back-end e IA com o GitHub Copilot, passando por estruturas de dados, programação orientada a objetos, APIs, Docker, engenharia de prompts e muito mais. Gosto de entrar em Bootcamps pois se dormimos 6 meses na área tech e acordarmos, parece que não sabemos mais onde paramos.
+Me inscrevi no [**Bootcamp da DIO -Akad - Fullstack Developer**](https://web.dio.me/track/akad-fullstack-developer?tab=about), nele eu relembro desde os fundamentos de programação até a construção de aplicações completas com React, para front-end .NET para back-end e IA com o GitHub Copilot, passando por estruturas de dados, programação orientada a objetos, APIs, Docker, engenharia de prompts e muito mais. Gosto de entrar em Bootcamps pois se dormimos 6 meses na área tech e acordarmos, parece que não sabemos mais onde paramos.
 
-Também, estou aproveitando que a **Oracle** lançou certificações gratuitas e estou apredendo sobre IA para OCI e aplicativos em nuvem. 
+Também, estou aproveitando que a [**Oracle**](https://mylearn.oracle.com/ou/home) lançou certificações gratuitas e estou apredendo sobre IA para OCI e aplicativos em nuvem. 
 
 
 ---
