@@ -16,6 +16,9 @@ Feito para solucionar problemas de conectividade com eSim
 ### 🤖 [Programa de um estacionamento com C#](https://github.com/tamhiull/ProjetoEstacionamento).
 Aplicação console para gestão de veículos estacionados, com cálculo automático de tarifas baseado em tempo. 
 
+### 🐍 [Projeto ETL Python: Normalização e Ingestão de Dados (Excel e CSV) para PostgreSQL](https://github.com/tamhiull/integracao_dados).
+Projeto de **automação de ETL (Extract, Transform, Load)** desenvolvido em Python, utilizando **Pandas** e **Psycopg2**, para centralizar dados de seguros de múltiplas fontes (planilhas Excel e lotes de arquivos CSV) em um banco de dados **PostgreSQL**. 
+
 ---
 
 ## 💼 Estudos e Programas recentes: 
